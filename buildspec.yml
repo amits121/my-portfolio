@@ -3,11 +3,11 @@ version: 0.1
 phases:
   build:
    commands:
-	 - echo Nothing to do yet
+   - echo Nothing to do yet
 artifacts:
-	files:
-		- index.html
-		- favicon.ico
-		- Amit-Cloud-PM-up.pdf
-		- styles/main.css
-		- images/*
+ files:
+   - index.html
+   - favicon.ico
+   - Amit-Cloud-PM-up.pdf
+   - styles/main.css
+   - images/*
